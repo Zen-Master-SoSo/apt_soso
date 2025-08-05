@@ -21,4 +21,4 @@
 Provides a couple of nice-to-have commands which are not available in the standard apt suite.
 """
 
-__version__ = "1.0.0"
+__version__ = "1.0.1"
